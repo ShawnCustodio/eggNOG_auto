@@ -1,7 +1,7 @@
+# Large database files
 databases/
 results/
+
+# Compressed files
 *.gz
 *.dmnd
-*.fa
-*.faa
-*.tsv
