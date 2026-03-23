@@ -1,0 +1,7 @@
+databases/
+results/
+*.gz
+*.dmnd
+*.fa
+*.faa
+*.tsv
