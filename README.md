@@ -1,6 +1,6 @@
 # eggNOG 7 Protein Annotation Pipeline
 
-A lightweight Python pipeline that annotates protein sequences against the [eggNOG 7 database](http://eggnog6.embl.de/) without requiring eggnog-mapper. It takes a `.faa` FASTA file, runs DIAMOND blastp against the eggNOG 7 reference proteins, and produces a formatted `.xlsx` with GO terms, KEGG annotations, and protein family assignments.
+A lightweight Python pipeline that annotates protein sequences against the [eggNOG 7 database](https://eggnogdb.org/) without requiring eggnog-mapper. It takes a `.faa` FASTA file, runs DIAMOND blastp against the eggNOG 7 reference proteins, and produces a formatted `.xlsx` with GO terms, KEGG annotations, and protein family assignments.
 
 ---
 
